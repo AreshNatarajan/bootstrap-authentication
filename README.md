@@ -3,6 +3,10 @@
 ## Description
 This project is a simple login and registration page created using Bootstrap. It is designed for a cake website.
 
+![Uploading Screenshot from 2024-11-01 23-17-38.png…]()
+
+![Uploading Screenshot from 2024-11-01 23-17-41.png…]()
+
 ## Features
 - Responsive design compatible with various devices
 
@@ -21,4 +25,4 @@ To get a local copy up and running, follow these steps:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https://github.com/AreshNatarajan/bootstrap-authentication.git
